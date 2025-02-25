@@ -1,6 +1,6 @@
 # CDS524_Machine Learning for Business_Assignment1 Reinforcement Learning Game Design
 
-**#Q-learning base Maze Game Agent Implementation**
+## Q-learning base Maze Game Agent Implementation
 
 CDS524_machine learning for business assignment 1-Reinforcement Learning Game Design GitHub report as required provided by Student ID:5580706. 
 
